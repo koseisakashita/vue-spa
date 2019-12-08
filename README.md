@@ -1,5 +1,14 @@
 # vue-spa
 
+## Language used, tools
+
+- html
+- vue.js
+  - vuex
+  - vue-router
+  - vue-cli
+- firebase
+
 ## Project setup
 ```
 npm install
@@ -14,3 +23,4 @@ npm run serve
 ```
 npm run build
 ```
+
